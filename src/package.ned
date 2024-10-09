@@ -1,0 +1,3 @@
+package ospfsimulation;
+
+@license(LGPL);
